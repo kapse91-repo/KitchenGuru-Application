@@ -1,1 +1,1 @@
-# Food-Recipe
+# Kitchen Guru app
